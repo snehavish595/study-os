@@ -6,6 +6,8 @@ StudyOS is a production-ready, glassmorphic study management system built with p
 
 ---
 
+## Demo Link - https://snehavish595.github.io/study-os/
+---
 ## ⚡ Core Engineering Highlights
 
 * **Unified Workspace Matrix:** Consolidates task roadmaps, note logs, focus timers, and subject-wise metrics into a unified application interface.
